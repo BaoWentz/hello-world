@@ -1,4 +1,4 @@
 # hello-world
-A very new start!/n
-It's time to make some change!
-***try something***
+A very new start!  
+It's time to make some change!  
+***try something***  
